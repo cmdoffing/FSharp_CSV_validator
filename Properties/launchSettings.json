@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSV_validator": {
+      "commandName": "Project",
+      "commandLineArgs": "c:/data/carsparams.json"
+    }
+  }
+}
